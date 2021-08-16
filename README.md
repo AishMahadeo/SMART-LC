@@ -50,8 +50,8 @@ https://www.youtube.com/watch?v=zVEbitSLA10
 
 ## Authors
  It was a Diploma final year project made by-\
- **Arpita Kar**\
  **Aishvarya Birambole**\
+ **Arpita Kar**\
  **Aditi Pawar**\
  **Saurav Deore**\
  **Neha Kashid**
