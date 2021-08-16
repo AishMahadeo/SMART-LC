@@ -4,11 +4,13 @@
 - Through this project, students can get hard copy of any document within a minute.
 - For demo purpose we have added Leaving Certificate, Train Concession and bonafide.
 
-![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/photo.png)
+![alt text](https://github.com/AishMahadeo/SMART-LC/blob/master/photo.png)
 
 
 ## Demo Video Link 👇🏻
-https://www.youtube.com/watch?v=VLvS8Zu626M
+https://www.youtube.com/watch?v=XWE1GpM0fiA&t=183s
+##Advertising Website of a project(Demo Website Video) 👇
+https://www.youtube.com/watch?v=zVEbitSLA10
 
 ## Need:
 - 80% Indian colleges provide only hard copy of documents & certificates, but completing the procedure is very time-consuming as it requires a lot of paperwork which brings extreme pressure on staff and students. 
@@ -31,7 +33,7 @@ https://www.youtube.com/watch?v=VLvS8Zu626M
 3. HTML
 4. CSS
 
-![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/working%20block%20diagram.png)
+![alt text](https://github.com/AishMahadeo/SMART-LC/blob/master/working%20block%20diagram.png)
 ## Features:
 - Time saving. 
 - Reduces staff burden.
@@ -53,4 +55,4 @@ https://www.youtube.com/watch?v=VLvS8Zu626M
  **Saurav Deore**\
  **Neha Kashid**
 
-![alt text](https://github.com/Arpita-8850/SMART-LC/blob/master/SMART%20LC.jpg)
+![alt text](https://github.com/AishMahadeo/SMART-LC/blob/master/SMART%20LC.jpg)
