@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=zVEbitSLA10
 - Time saving. 
 - Reduces staff burden.
 - It is user Friendly & made for daily use.
-- It iEasy installation
+- It is Easy to install
 - It is convenient & sustainable.
 - No staff interference.
 - It is hassle-free.
