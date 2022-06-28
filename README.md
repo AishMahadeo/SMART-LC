@@ -29,10 +29,10 @@ https://www.youtube.com/watch?v=zVEbitSLA10
 7. Microsoft Visual redistributable packages
 
 ## Languages used:
-1. JAVA
-2. PHP
-3. HTML
-4. CSS
+1. PHP
+2. HTML
+3. CSS
+4. JAVASCRIPT
 
 ![alt text](https://github.com/AishMahadeo/SMART-LC/blob/master/working%20block%20diagram.png)
 ## Features:
